@@ -1,4 +1,4 @@
-# Haccess the page
+# Access the page
 
 https://queopsvitoria.github.io/bootcamp-dio-Santander/
 
